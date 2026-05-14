@@ -3,23 +3,25 @@ AI Instagram Caption Generator 🎨📸
 An AI-powered Instagram Caption Generator built using Streamlit and Groq API that creates engaging captions from uploaded images and user prompts.
 The application also performs sentiment analysis to understand the mood, emotional tone, and social media vibe of the content.
 
-✨ Features
--📸 Upload Images
--🤖 AI-Generated Instagram Captions
--🎭 Multiple Caption Styles
--📏 Adjustable Caption Length
--🧠 Sentiment Analysis
--🌙 Modern Dark UI
--📥 Download Captions
--⚡ Fast Response using Groq API
+## ✨ Features
 
-🛠️ Tech Stack
--Python
--Streamlit
--Groq API
--PIL (Python Imaging Library)
--HTML/CSS
--Prompt Engineering
+- 📸 Upload Images
+- 🤖 AI-Generated Instagram Captions
+- 🎭 Multiple Caption Styles
+- 📏 Adjustable Caption Length
+- 🧠 Sentiment Analysis
+- 🌙 Modern Dark UI
+- 📥 Download Captions
+- ⚡ Fast Response using Groq API
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Groq API
+- PIL (Python Imaging Library)
+- HTML/CSS
+- Prompt Engineering
 
 
 📂 Project Structure
@@ -78,42 +80,42 @@ GROQ_API_KEY="your_api_key_here"
 streamlit run app.py
 ```
 
-📌 How It Works
--Upload an image
--Enter image description
--Select caption style
--Select caption length
--Click Generate Captions
--View AI-generated captions
--Analyze sentiment and download captions
+## 📌 How It Works
+- Upload an image
+- Enter image description
+- Select caption style
+- Select caption length
+- Click Generate Captions
+- View AI-generated captions
+- Analyze sentiment and download captions
 
-🎭 Caption Styles Supported
--Aesthetic
--Funny
--Motivational
--Romantic
--Travel
--Inspirational
+## 🎭 Caption Styles Supported
+- Aesthetic
+- Funny
+- Motivational
+- Romantic
+- Travel
+- Inspirational
 
-🧠 Sentiment Analysis Includes
--Overall Mood
--Emotional Tone
--Social Media Vibe
--Audience Appeal
--Virality Potential
-
-🚀 Future Enhancements
--Multi-language caption generation
--AI hashtag suggestions
--Instagram direct sharing
--Voice input support
--Reel caption generation
+## 🧠 Sentiment Analysis Includes
+- Overall Mood
+- Emotional Tone
+- Social Media Vibe
+- Audience Appeal
+- Virality Potential
+ 
+## 🚀 Future Enhancements
+- Multi-language caption generation
+- AI hashtag suggestions
+- Instagram direct sharing
+- Voice input support
+- Reel caption generation
 
 Fork the repository
--Create a new branch
--Commit changes
--Push to branch
--Create Pull Request
+- Create a new branch
+- Commit changes
+- Push to branch
+- Create Pull Request
 
 📄 License
 This project is licensed under the MIT License.
